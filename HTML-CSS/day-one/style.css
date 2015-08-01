@@ -1,3 +1,10 @@
 body {
   background-color: #CCCCFF;
+  background-image: url(http://img07.deviantart.net/ab5d/i/2013/177/0/1/pastel_galaxy_by_thelittlecuteartist-d6aqlik.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  font-family: Georgia, Arial;
+  color: #4B0082;
+  margin: 25px;
 }
