@@ -1,0 +1,77 @@
+/*day two*/
+
+body{
+  background: #9CA2A6 url('http://static.tumblr.com/4ipyudm/CzIm7j9rd/pawprint_background_small_light.jpg') top left fixed repeat;
+  font-family: 'Raleway', sans-serif;
+  color: ;
+  margin: 10px;
+}
+
+
+h1{
+  background-color: #FFFCE4
+  font-family: 'Poiret One', cursive;
+  color: #2F3C43;
+  margin: auto;
+  width: 550px;
+  }
+
+.h{
+  background-color: #FFFFFF;
+  font-family: 'Poiret One', cursive;
+  color: #2F3C43;
+  text-align: center;
+  }
+
+div{
+  background-color: #FFFFFF;
+  font-family: 'Raleway', sans-serif
+  color: #2F3C43;
+  text-align: center;
+  padding: 5px 10px 5px 10px;
+  width: 550px;
+  display: inline-block;
+}
+.1{
+  margin-left: auto;
+}
+
+.2{
+  margin-right: auto;
+}
+
+
+p{
+  background-color: #FFFFFF;
+  font-family: 'Poiret One', cursive;
+  color: #2F3C43;
+  text-align: left;
+}
+
+section{
+    background-color: #FEFAC6;
+    padding: 5px 10px 5px 10px;
+    border: 2px solid #727DA9;
+    color: #2F3C43; 
+    margin-left: auto;
+    width: 550px;
+}
+
+a{
+  color: ;
+}
+
+/* unvisited link */
+a:link {
+    color: #FF004F;
+}
+
+/* visited link */
+a:visited {
+    color: #FF4F76;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF4F76;
+}
