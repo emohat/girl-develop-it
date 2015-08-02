@@ -1,0 +1,48 @@
+body{
+  background: #9CA2A6 url('http://www.themesltd.com/backgrounds/food/hot_pizza_slices.png') top left fixed repeat;
+  font-family: 'Raleway', sans-serif;
+  color: ;
+  margin: 10px;
+}
+
+.headerfooter{
+  background-color: #FFE277;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: #FF6C61;
+  margin: auto;
+  width: 700px;
+  padding: 5px;
+  }
+
+  header{
+    position: relative;
+    top: 0px;
+  }
+
+  section{
+    background-color: #DFB080;
+    width: 550px;
+    color:#471E00;
+    margin: auto;
+  }
+
+  footer{
+    position: relative;
+    top: 80px;
+    bottom: 0px;
+  }
+
+  .box1{
+    position: absolute;
+    top: 25px;
+    right: 400px;
+  }
+
+  .box2{
+    position: absolute;
+    top: 10px;
+    left: 400px;
+  }
+
+  
