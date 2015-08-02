@@ -1,0 +1,17 @@
+div{
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid red;
+  float: left;
+}
+div:hover {color: #000000;}
+
+
+/* unvisited link */
+a:link {color: #FF004F;}
+/* visited link */
+a:visited {color: #FF4F76;}
+/* mouse over link */
+a:hover {color: #000000;}

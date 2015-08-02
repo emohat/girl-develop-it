@@ -58,21 +58,11 @@ section{
     width: 550px;
 }
 
-a{
-  color: ;
-}
-
 /* unvisited link */
-a:link {
-    color: #FF004F;
-}
+a:link {color: #FF004F;}
 
 /* visited link */
-a:visited {
-    color: #FF4F76;
-}
+a:visited {color: #FF4F76;}
 
 /* mouse over link */
-a:hover {
-    color: #FF4F76;
-}
+a:hover {color: #FF4F76;}
