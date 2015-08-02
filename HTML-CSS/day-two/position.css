@@ -35,14 +35,14 @@ body{
 
   .box1{
     position: absolute;
-    top: 25px;
-    right: 400px;
+    top: 10px;
+    left: 150px;
   }
 
   .box2{
     position: absolute;
-    top: 10px;
-    left: 400px;
+    top: -3px;
+    right: 150px;
   }
 
   
